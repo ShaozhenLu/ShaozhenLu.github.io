@@ -1,0 +1,267 @@
+{
+    "Technology": {
+        "labels": [
+            "Technology",
+            "AAPL",
+            "MSFT",
+            "V",
+            "NVDA",
+            "MA",
+            "ORCL",
+            "AVGO"
+        ],
+        "mktcap": [
+            0,
+            2294,
+            1802,
+            435.552,
+            394.092,
+            331.309,
+            219.441,
+            217.576
+        ]
+    },
+    "Materials": {
+        "labels": [
+            "Materials",
+            "LIN",
+            "APD",
+            "SHW",
+            "FCX",
+            "CTVA",
+            "ECL",
+            "NUE"
+        ],
+        "mktcap": [
+            0,
+            166.952,
+            67.549,
+            63.635,
+            51.727,
+            46.392,
+            41.437,
+            37.848
+        ]
+    },
+    "Consumer Discretionary": {
+        "labels": [
+            "Consumer Discretionary",
+            "AMZN",
+            "TSLA",
+            "HD",
+            "MCD",
+            "NKE",
+            "LOW",
+            "SBUX"
+        ],
+        "mktcap": [
+            0,
+            958.445,
+            577.616,
+            325.039,
+            199.864,
+            164.32,
+            126.407,
+            113.202
+        ]
+    },
+    "Consumer Staples": {
+        "labels": [
+            "Consumer Staples",
+            "WMT",
+            "PG",
+            "KO",
+            "PEP",
+            "COST",
+            "PM",
+            "MDLZ"
+        ],
+        "mktcap": [
+            0,
+            416.663,
+            347.398,
+            271.147,
+            253.347,
+            234.987,
+            151.346,
+            90.336
+        ]
+    },
+    "Health Care": {
+        "labels": [
+            "Health Care",
+            "UNH",
+            "JNJ",
+            "LLY",
+            "ABBV",
+            "PFE",
+            "MRK",
+            "TMO"
+        ],
+        "mktcap": [
+            0,
+            497.326,
+            463.626,
+            347.547,
+            280.18,
+            278.252,
+            274.964,
+            211.797
+        ]
+    },
+    "Industrials": {
+        "labels": [
+            "Industrials",
+            "UPS",
+            "HON",
+            "RTX",
+            "DE",
+            "UNP",
+            "LMT",
+            "CAT"
+        ],
+        "mktcap": [
+            0,
+            155.59,
+            145.067,
+            142.449,
+            133.166,
+            128.198,
+            126.637,
+            120.891
+        ]
+    },
+    "Real Estate": {
+        "labels": [
+            "Real Estate",
+            "PLD",
+            "AMT",
+            "EQIX",
+            "CCI",
+            "PSA",
+            "O",
+            "SPG"
+        ],
+        "mktcap": [
+            0,
+            109.921,
+            102.47,
+            62.432,
+            61.142,
+            52.447,
+            40.671,
+            39.462
+        ]
+    },
+    "Communication Services": {
+        "labels": [
+            "Communication Services",
+            "GOOG",
+            "GOOGL",
+            "META",
+            "TMUS",
+            "DIS",
+            "VZ",
+            "CMCSA"
+        ],
+        "mktcap": [
+            0,
+            1245,
+            1244,
+            288.449,
+            186.499,
+            174.448,
+            160.601,
+            153.87
+        ]
+    },
+    "Utilities": {
+        "labels": [
+            "Utilities",
+            "NEE",
+            "DUK",
+            "SO",
+            "SRE",
+            "D",
+            "AEP",
+            "EXC"
+        ],
+        "mktcap": [
+            0,
+            166.385,
+            75.936,
+            71.678,
+            51.261,
+            50.514,
+            48.93,
+            39.978
+        ]
+    },
+    "Financials": {
+        "labels": [
+            "Financials",
+            "BRK-B",
+            "JPM",
+            "BAC",
+            "WFC",
+            "MS",
+            "SCHW",
+            "GS"
+        ],
+        "mktcap": [
+            0,
+            689.814,
+            394.076,
+            295.707,
+            179.017,
+            151.924,
+            149.022,
+            129.48
+        ]
+    },
+    "Energy": {
+        "labels": [
+            "Energy",
+            "XOM",
+            "CVX",
+            "COP",
+            "EOG",
+            "SLB",
+            "OXY",
+            "PXD"
+        ],
+        "mktcap": [
+            0,
+            452.23,
+            344.884,
+            154.313,
+            80.267,
+            70.73,
+            62.015,
+            58.262
+        ]
+    },
+    "S&P 500": {
+        "labels": [
+            "S&P 500",
+            "AAPL",
+            "MSFT",
+            "GOOG",
+            "GOOGL",
+            "AMZN",
+            "BRK-B",
+            "TSLA"
+        ],
+        "mktcap": [
+            0,
+            2294,
+            1802,
+            1245,
+            1244,
+            958.445,
+            689.814,
+            577.616
+        ]
+    }
+
+}

@@ -1,0 +1,36 @@
+{
+  "name": "sspy",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@deck.gl/layers": "^8.8.20",
+    "@deck.gl/mapbox": "^8.8.20",
+    "@livelybone/vue-datepicker": "^4.1.2",
+    "@observablehq/plot": "^0.6.0",
+    "@progress/kendo-vue-charts": "^3.7.3",
+    "@syncfusion/ej2-vue-charts": "^20.3.58",
+    "axios": "^1.1.3",
+    "bootstrap": "^5.2.2",
+    "bootstrap-icons": "^1.10.2",
+    "cors": "^2.8.5",
+    "d3": "^7.6.1",
+    "element-plus": "^2.2.25",
+    "jquery": "^3.6.1",
+    "pinia": "^2.0.23",
+    "plotly.js-dist": "^2.16.3",
+    "stocks.js": "^0.0.7",
+    "vue": "^3.2.41",
+    "vue-router": "^4.1.5",
+    "vue3-datepicker": "^0.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.2.0",
+    "vite": "^3.2.3"
+  }
+}
